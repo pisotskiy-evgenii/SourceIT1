@@ -1,4 +1,4 @@
-package lect0;
+package lect0.flyexample;
 
 public class Main {
 
