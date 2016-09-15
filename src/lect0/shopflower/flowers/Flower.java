@@ -1,6 +1,5 @@
 package lect0.shopflower.flowers;
 
-
 public abstract class Flower {
 
     private double price;
@@ -16,6 +15,4 @@ public abstract class Flower {
     public void setPrice(double price) {
         this.price = price;
     }
-
-
 }
